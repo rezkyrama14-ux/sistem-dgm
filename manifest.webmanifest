@@ -1,0 +1,17 @@
+{
+  "name": "Pusat Kendali Marketing",
+  "short_name": "Pusat Kendali",
+  "description": "Content plan, kalender, brief, report sosmed, Meta Ads dan riset market dalam satu aplikasi.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4F6F8",
+  "theme_color": "#0E7C6B",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
